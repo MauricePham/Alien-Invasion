@@ -7,7 +7,7 @@ Here is the game from the book Python Crash Course by Eric Matthes
 I also put in some of my own features for a better look at! Including the Moon, type of Alien, Ship, Background and so on...
 
 <p align="center">
- <img src= ![image](https://user-images.githubusercontent.com/119284938/216530634-b3a5dc61-78ac-47af-ab11-cdd7e8ab0a28.png) width="600">
+ <img src= "Demo.png" width="600">
 
 ## Motivation
 Since I want to learn more Python, making a game with Python will make the journy more interesting. Throughout the Chapters, I can learn a lot about Python, such as refactoring your code, reviewing your project, etc.
