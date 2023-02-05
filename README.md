@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Here is the game from the book Python Crash Course by Eric Matthes
+Here is the game's picture
 I also put in some of my own features for a better look at! Including the Moon, type of Alien, Ship, Background and so on...
 
 <p align="center">
@@ -25,4 +25,4 @@ You need to download all the files that ending with ".py". Store it in a folder,
 * **PYGAME**
 
 ## Acknowledgements
-Have fun, please give me a STAR for motivation. I am still a fresher who needs to learn more.
+Thanks for the instruction from the book "Python Crash Course" of Eric Matthes.
