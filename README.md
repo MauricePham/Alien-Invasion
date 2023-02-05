@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Here is the game's picture
+Here is the game's picture,
 I also put in some of my own features for a better look at! Including the Moon, type of Alien, Ship, Background and so on...
 
 <p align="center">
